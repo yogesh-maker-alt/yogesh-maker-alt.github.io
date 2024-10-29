@@ -1,0 +1,76 @@
+ body{
+     background-color:#820000;
+     color:#180A0A;
+     font-size:20px;
+ }
+hr{
+  color="Black"
+}
+
+.contact{
+ border-radius: 7px;
+ height: 35px;
+}
+::placeholder{
+  text-align: center;
+}
+.message{
+  height: 50px;
+  width: 150px;
+}
+
+
+
+.MainDiv{
+ background-color:#CDF0EA;
+ margin: 50px;
+ margin-bottom:0px;
+ padding: 15px 15px 15px 15px;
+ border-radius : 20px;
+}
+
+.nameHeading{
+    margin-top: 1px;    
+    margin-bottom: 1px;
+}
+
+.footerText{
+    background-color: #000;
+    color: #333;
+    font-family: Helvetica Neue,Helvetica,Arial,sans-      serif;  text-align:center;
+  --font-family: "Times New Roman";
+  font-size:20px;
+  margin-left:50px;
+  margin-right:50px;
+  margin-top:0px;
+  margin-bottom: 0px;
+  border-radius : 20px;
+}
+
+
+
+html{
+  font-size : 10px;
+}
+
+.tech{
+  padding-right: 20px;
+}
+
+.contactpage{
+  text-align: center;
+  font-size: 30px;
+}
+
+.flabel{
+  color: #FFDEB4;
+}
+
+tbody{
+  width: 100%;
+}
+
+a{
+  text-decoration: none;
+  font-size: 20px;  
+}
